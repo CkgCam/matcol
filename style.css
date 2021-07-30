@@ -13,3 +13,17 @@ body{
     background-color: #712B36;
     min-height: 112px;
 }
+
+.youtube-custom-video {
+    z-index: -99;
+}
+
+.overlay-color-video{
+    height: 100%;
+    width: 100%;
+    background: rgb(56, 56, 56);
+    z-index: 999;
+    overflow: hidden;
+    opacity: 0.2;
+    position: absolute;
+}
