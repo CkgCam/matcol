@@ -1,0 +1,15 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.navbar-whitebar-custom {
+    min-height: 20px;
+  }
+
+.navbar-custom {
+    background-color: #712B36;
+    min-height: 112px;
+}
